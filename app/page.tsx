@@ -274,10 +274,10 @@ export default function HomePage() {
                 <p className="text-xs text-white/50" data-atomic-id="a14lris8">{APP_TAGLINE}</p>
               </div>
               <div
-                className="ml-auto flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/15 border border-emerald-500/25 text-emerald-400 text-xs font-semibold"
+                className="ml-auto flex items-center gap-1.5 px-3 py-1 rounded-full bg-sky-500/15 border border-sky-500/25 text-sky-400 text-xs font-semibold"
                 data-atomic-id="ahv4thk">
                 <span
-                  className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"
+                  className="w-1.5 h-1.5 rounded-full bg-sky-400 animate-pulse"
                   data-atomic-id="arnvrbu" />
                 {t("hero.available")}
               </div>

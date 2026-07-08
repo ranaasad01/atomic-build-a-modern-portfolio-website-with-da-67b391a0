@@ -175,10 +175,10 @@ export default function ContactPage() {
             <div className="rounded-2xl border border-white/8 bg-white/[0.03] p-6 shadow-[0_1px_2px_rgba(0,0,0,0.2),0_8px_24px_-8px_rgba(0,0,0,0.4)]">
               <div className="flex items-center gap-3 mb-4">
                 <span className="relative flex h-3 w-3">
-                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-60" />
-                  <span className="relative inline-flex rounded-full h-3 w-3 bg-emerald-400" />
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-sky-400 opacity-60" />
+                  <span className="relative inline-flex rounded-full h-3 w-3 bg-sky-400" />
                 </span>
-                <span className="text-sm font-semibold text-emerald-400">
+                <span className="text-sm font-semibold text-sky-400">
                   {t("contact.availability.status")}
                 </span>
               </div>
@@ -506,9 +506,9 @@ export default function ContactPage() {
             initial="hidden"
             animate="visible"
             exit={{ opacity: 0, y: 20, scale: 0.92, transition: { duration: 0.3 } }}
-            className="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 px-5 py-4 rounded-2xl bg-[#1a1a1a] border border-emerald-500/30 shadow-[0_8px_32px_rgba(0,0,0,0.5),0_0_0_1px_rgba(52,211,153,0.1)] min-w-[300px]"
+            className="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 px-5 py-4 rounded-2xl bg-[#1a1a1a] border border-sky-500/30 shadow-[0_8px_32px_rgba(0,0,0,0.5),0_0_0_1px_rgba(52,211,153,0.1)] min-w-[300px]"
           >
-            <span className="flex items-center justify-center w-8 h-8 rounded-full bg-emerald-500/15 text-emerald-400 shrink-0">
+            <span className="flex items-center justify-center w-8 h-8 rounded-full bg-sky-500/15 text-sky-400 shrink-0">
               <CheckCircle size={18} />
             </span>
             <div>

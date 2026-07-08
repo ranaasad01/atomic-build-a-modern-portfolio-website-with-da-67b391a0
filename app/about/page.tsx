@@ -168,7 +168,7 @@ export default function AboutPage() {
                   className="absolute -bottom-4 -right-4 bg-[#141414] border border-white/10 rounded-xl px-4 py-3 shadow-[0_4px_24px_rgba(0,0,0,0.5)]"
                 >
                   <div className="flex items-center gap-2">
-                    <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                    <span className="w-2 h-2 rounded-full bg-sky-400 animate-pulse" />
                     <span className="text-xs font-medium text-white/70">
                       Open to work
                     </span>
