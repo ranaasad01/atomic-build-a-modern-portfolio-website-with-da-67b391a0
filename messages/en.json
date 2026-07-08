@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "hire": "Hire me"
+  },
+  "footer": {
+    "tagline": "Building digital experiences that live at the intersection of design and engineering.",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "backToTop": "Back to top",
+    "copyright": "Crafted with care."
+  },
+  "contact": {
+    "availability": {
+      "description": "Open to freelance projects and full-time opportunities",
+      "status": "Available for work",
+      "timezone": "EST"
+    },
+    "eyebrow": "Get in touch",
+    "form": {
+      "charCount": "{current} / {max}",
+      "disclaimer": "I'll get back to you within 24 hours.",
+      "emailLabel": "Email",
+      "emailPlaceholder": "your@email.com",
+      "heading": "Let's talk",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell me about your project...",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "sending": "Sending...",
+      "subheading": "Drop me a line and I'll respond as soon as possible.",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "What's this about?",
+      "submit": "Send message"
+    },
+    "heading": {
+      "accent": "Let's create something great",
+      "line1": "Ready to work together?"
+    },
+    "info": {
+      "emailLabel": "Email",
+      "label": "Contact info",
+      "location": "Remote",
+      "locationLabel": "Location"
+    },
+    "social": {
+      "label": "Follow me"
+    },
+    "subheading": "Reach out via email or connect on social.",
+    "toast": {
+      "body": "Thanks for reaching out. I'll be in touch soon.",
+      "title": "Message sent"
+    }
+  },
+  "cta": {
+    "body": "Let's build something amazing together.",
+    "button": "Start a project",
+    "heading": "Have an idea?",
+    "label": "Call to action"
+  },
+  "hero": {
+    "available": "Available for work",
+    "badge": "Portfolio",
+    "cta_primary": "View my work",
+    "cta_secondary": "Get in touch",
+    "headline1": "Designer &",
+    "headline2": "Developer",
+    "headline3": "crafting digital experiences",
+    "subtext": "I build beautiful, functional websites and applications that solve real problems."
+  },
+  "projects": {
+    "cta": {
+      "body": "Interested in collaborating? Let's discuss your next project.",
+      "button": "Start a conversation",
+      "eyebrow": "Ready to work together?",
+      "heading": "Have a project in mind?"
+    },
+    "eyebrow": "Featured work",
+    "heading": "Selected projects",
+    "label": "Projects",
+    "subheading": "A collection of recent work spanning design, development, and strategy.",
+    "view_all": "View all projects"
+  },
+  "skills": {
+    "body": "Specialized in modern web technologies, UI/UX design, and full-stack development.",
+    "cta": "View my work",
+    "heading": "Skills & Expertise",
+    "label": "What I do",
+    "point1": "Full-stack design and development",
+    "point2": "User experience and interface design",
+    "point3": "Modern web technologies and tools"
+  },
+  "testimonials": {
+    "heading": "What People Say",
+    "label": "Testimonials"
+  }
+}

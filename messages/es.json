@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "hire": "Contratarme"
+  },
+  "footer": {
+    "tagline": "Creando experiencias digitales en la intersección del diseño e ingeniería.",
+    "navigation": "Navegación",
+    "connect": "Conectar",
+    "backToTop": "Volver al inicio",
+    "copyright": "Hecho con cuidado."
+  },
+  "contact": {
+    "availability": {
+      "description": "Abierto a proyectos freelance y oportunidades a tiempo completo",
+      "status": "Disponible para trabajar",
+      "timezone": "EST"
+    },
+    "eyebrow": "Ponte en contacto",
+    "form": {
+      "charCount": "{current} / {max}",
+      "disclaimer": "Te responderé dentro de 24 horas.",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "tu@email.com",
+      "heading": "Hablemos",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "sending": "Enviando...",
+      "subheading": "Envíame un mensaje y responderé lo antes posible.",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "submit": "Enviar mensaje"
+    },
+    "heading": {
+      "accent": "Creemos algo extraordinario",
+      "line1": "¿Listo para trabajar juntos?"
+    },
+    "info": {
+      "emailLabel": "Correo electrónico",
+      "label": "Información de contacto",
+      "location": "Remoto",
+      "locationLabel": "Ubicación"
+    },
+    "social": {
+      "label": "Sígueme"
+    },
+    "subheading": "Contáctame por correo o conéctate en redes sociales.",
+    "toast": {
+      "body": "Gracias por comunicarte. Pronto me pondré en contacto.",
+      "title": "Mensaje enviado"
+    }
+  },
+  "cta": {
+    "body": "Construyamos algo increíble juntos.",
+    "button": "Iniciar un proyecto",
+    "heading": "¿Tienes una idea?",
+    "label": "Llamada a la acción"
+  },
+  "hero": {
+    "available": "Disponible para trabajar",
+    "badge": "Portafolio",
+    "cta_primary": "Ver mi trabajo",
+    "cta_secondary": "Ponte en contacto",
+    "headline1": "Diseñador y",
+    "headline2": "Desarrollador",
+    "headline3": "creando experiencias digitales",
+    "subtext": "Creo sitios web y aplicaciones hermosas y funcionales que resuelven problemas reales."
+  },
+  "projects": {
+    "cta": {
+      "body": "¿Interesado en colaborar? Hablemos sobre tu próximo proyecto.",
+      "button": "Iniciar una conversación",
+      "eyebrow": "¿Listo para trabajar juntos?",
+      "heading": "¿Tienes un proyecto en mente?"
+    },
+    "eyebrow": "Trabajo destacado",
+    "heading": "Proyectos seleccionados",
+    "label": "Proyectos",
+    "subheading": "Una colección de trabajo reciente que abarca diseño, desarrollo y estrategia.",
+    "view_all": "Ver todos los proyectos"
+  },
+  "skills": {
+    "body": "Especializado en tecnologías web modernas, diseño UI/UX y desarrollo full-stack.",
+    "cta": "Ver mi trabajo",
+    "heading": "Habilidades y Experiencia",
+    "label": "Qué hago",
+    "point1": "Diseño y desarrollo full-stack",
+    "point2": "Diseño de experiencia de usuario e interfaz",
+    "point3": "Tecnologías y herramientas web modernas"
+  },
+  "testimonials": {
+    "heading": "Qué Dicen las Personas",
+    "label": "Testimonios"
+  }
+}
